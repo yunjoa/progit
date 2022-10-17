@@ -1,8 +1,9 @@
-# Headline
-
-> An awesome project.
->wow
 
 
-## this is second
-### hellow
+### pro git을 읽고 정리하기
+
+> <https://git-scm.com/book/ko/v2>  
+
+위 링크에 이미 훌륭한 번역본이 있음미다.  
+이 페이지는 정독하면서 정리 요약해보는 문서가 될 예정입니다.
+
